@@ -1,4 +1,4 @@
-# Voice Recognition and playback
+# Voice Recognition and its playback
 
 It uses google API gTTS and built in python library for sppech recognition and audio playback
 
